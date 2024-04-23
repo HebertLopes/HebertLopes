@@ -1,4 +1,4 @@
-<h3>Olá, eu sou o Hebert Lopes e sou programador front-end junior. Seja bem-vindo(a) ao perfil do Github. 🖖🎧</h3>
+<h3>Olá, eu sou o Hebert Lopes e sou programador front-end júnior. Seja bem-vindo(a) ao perfil do Github. 🖖🎧</h3>
 
 <h6> #programação #tecnologia #computação</h6>
 
